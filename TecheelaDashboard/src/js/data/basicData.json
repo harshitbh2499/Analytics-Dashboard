@@ -1,0 +1,68 @@
+  [
+    {
+      "id": 0,
+      "series": "Data Analytics",
+      "group": "Quarter One",
+      "value": 42
+    },
+    {
+      "id": 1,
+      "series": "Data Analytics",
+      "group": "Quarter Two",
+      "value": 34
+    },
+    {
+      "id": 2,
+      "series": "Machine Learning",
+      "group": "Quarter One",
+      "value": 55
+    },
+    {
+      "id": 3,
+      "series": "Machine Learning",
+      "group": "Quarter Two",
+      "value": 30
+    },
+    {
+      "id": 4,
+      "series": "IT Staffing",
+      "group": "Quarter One",
+      "value": 36
+    },
+    {
+      "id": 5,
+      "series": "IT Staffing",
+      "group": "Quarter Two",
+      "value": 50
+    },
+    {
+      "id": 6,
+      "series": "Training",
+      "group": "Quarter One",
+      "value": 22
+    },
+    {
+      "id": 7,
+      "series": "Training",
+      "group": "Quarter Two",
+      "value": 46
+    },
+    {
+      "id": 8,
+      "series": "Web Development",
+      "group": "Quarter One",
+      "value": 22
+    },
+    {
+      "id": 9,
+      "series": "Web Development",
+      "group": "Quarter Two",
+      "value": 46
+    },
+    {
+      "id": 10,
+      "series": "Machine Learning",
+      "group": "Quarter One",
+      "value": 46
+    }
+  ]
